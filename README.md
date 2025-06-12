@@ -40,5 +40,8 @@ Currently working with modern tools to develop backend services and constantly l
 
 ---
 
-<h2>📫 Let's Connect</h2>
-<p>You can find me on <a href="https://www.linkedin.com/in/mohammed-madboly-161153366/">LinkedIn</a>.</p>
+<h2>📫 Contact me on LinkedIn</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/mohammed-madboly-161153366/">https://www.linkedin.com/in/mohammed-madboly-161153366/</a>
+</p>
